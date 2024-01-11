@@ -6,8 +6,8 @@
 - GetHashCode e Equals
 - Dictionary<TKey, TValue>
 - SortedDictionary<TKey, TValue>
-- HashSet<T>
-- SortedSet<T>
-- Stack<T>
-- Queue<T>
-- ReadOnlyCollection<T>
+- HashSet <T>
+- SortedSet <T>
+- Stack <T>
+- Queue <T>
+- ReadOnlyCollection <T>
